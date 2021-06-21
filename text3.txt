@@ -1,0 +1,4 @@
+Tezikov 30000
+Egorov 24000
+Sidorov 15000
+Ivanov 12000
